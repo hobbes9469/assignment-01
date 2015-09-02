@@ -11,7 +11,7 @@ Write a program that
     - If the user enters anything else: go back to step 1
 
 - Do *not* use `using namespace std;`.  You may get around typing `std::` in
-  front of things with, e.g., `using std::cout;` if you like.
+  front of things or with, e.g., `using std::cout;` if you like.
 - Handle user interaction within `main()`.
 - Handle the conversion of an integer into a Roman Numeral in a separate
   function.
