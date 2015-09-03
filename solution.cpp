@@ -4,7 +4,7 @@
  * ------------------------------------------------------------------------- */
 
 /**
- * This program takes an integer number and turns it into a Roman numeral
+ * This program takes an integer number and turns it into a Roman numeral.
  */
 
 // TODO: `#include`s and function prototypes
